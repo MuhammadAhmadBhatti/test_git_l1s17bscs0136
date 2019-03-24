@@ -1,2 +1,2 @@
-"name: MuhammadAhmadBhatti"
+name: Ahmad
 faculty of information technology
