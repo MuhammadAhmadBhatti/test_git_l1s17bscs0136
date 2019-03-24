@@ -1,2 +1,3 @@
-"name: MuhammadAhmadBhatti"
+name: MuhammadAhmadBhatti
 faculty of information technology
+ucp
